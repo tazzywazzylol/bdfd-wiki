@@ -1,29 +1,13 @@
-# Foreword
-### ✨ Imagine An App...
-...That makes building Discord bots easy with beginner-friendly functions. An app that's capable of developing nearly all types of bots - from simple *echo* bots, to advanced multi-purpose administration ones. Where simplicity meets functionality and scalability. That's **Bot Designer for Discord**.
+# TaZ
 
-What are you waiting for? Create the bot of your dreams today!
+## 📔 **Your currently viewing TaZ wiki**.
+### ✨ invite 
+[Invite TaZ](https://discord.com/oauth2/authorize?client_id=1096329832561909810&scope=bot%20applications.commands&permissions=2146958847)
 
-**Start with [*Bot Designer for Discord*](https://botdesignerdiscord.com)**
+TaZ is a multiple commands bot. It has a bunch of awesome commands such as easy verification system, moderation system, action commands, utilities system and a lot more. It can help with almost everything you need, the only thing it can't do is set logs and music because BDFD does not support it. So what are you waiting for? Invite TaZ today.
 
-### 📎 Links
-- [Discord Server](https://botdesignerdiscord.com/discord)
-- [Website](https://botdesignerdiscord.com/)
-- [Android App](https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger)
-- [iOS App](https://apps.apple.com/app/bot-designer-for-discord/id1495536477)
-- [Web App](https://botdesignerdiscord.com/app/) *(Alpha Version)*
+**Created with [*Bot Designer for Discord*](https://botdesignerdiscord.com)**
+
+### 📎 Discord server
+- [Discord Server](https://discord.gg/nAXfyDxddr)
 ---
-## 📓 Wiki
-Welcome to our humble abode. You're currrently viewing **Bot Designer for Discord**'s wiki.
-
-### 📂 Wiki Index
-- [Guides](./guides/introduction.md)
-- [Resources](./resources/introduction.md)
-- [BDScript](./bdscript/introduction.md)
-- [Premium](./premium/introduction.md)
-- [JavaScript](./javascript/introduction.md)
-- [Callbacks](./callbacks/introduction.md)
-
-
-#### Want to contribute to the wiki?
-Head over to the [GitHub repository contribution file](https://github.com/NilPointer-Software/bdfd-wiki/blob/dev/CONTRIBUTING.md) and learn how you can help out!
